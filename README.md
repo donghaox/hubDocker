@@ -17,3 +17,5 @@ Tools and infrastructure training
 1.	Hive query language/ Hue
 2.	Python
 3.	Tableau
+4.  GitHub
+5.  Best Practices
