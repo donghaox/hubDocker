@@ -3,6 +3,7 @@ Key People within DS&E
 2.	Yog – Assortment Precision and Personalization.
 3.	Andrew – Overview of existing platform, Azure cloud and Fraud Engine.
 4.	Mike – Test and Learn platform.
+5.  Craig - Bots
 
 Key People within Hsiao’s Org
 1.	Ralph Todd – Merchandising 
