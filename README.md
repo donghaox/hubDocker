@@ -1,5 +1,5 @@
 **Key People within DS&E**
- - Eshan & Ketan – Understanding the use case of Fresh Sales Tool & AI Finance.
+ - Ehsan & Ketan – Understanding the use case of Fresh Sales Tool & AI Finance.
  - Yog – Assortment Precision and Personalization.
  - Andrew – Overview of existing platform, Azure cloud and Fraud Engine.
  - Mike – Test and Learn platform.
