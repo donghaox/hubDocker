@@ -1,4 +1,4 @@
-pandas==0.24.2
+pandas==0.24.*
 thrift==0.11.0
 pyhive==0.6.1
 sqlalchemy==1.2.19
